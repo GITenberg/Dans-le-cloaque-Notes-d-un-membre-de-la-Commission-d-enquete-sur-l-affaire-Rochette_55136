@@ -1,5 +1,8 @@
 _repo: Dans-le-cloaque-Notes-d-un-membre-de-la-Commission-d-enquete-sur-l-affaire-Rochette_55136
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55136-h/images/cover.jpg
 creator:
   author:
     agent_name: Barrès, Maurice
@@ -14,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Maurice_Barrès
     - http://en.wikipedia.org/wiki/Maurice_Barrès
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55136#Dans-le-cloaque-Notes-d-un-membre-de-la-Commission-d-enquete-sur-l-affaire-Rochette
 gutenberg_bookshelf:
 - FR Politique
 - FR Droit et Justice
